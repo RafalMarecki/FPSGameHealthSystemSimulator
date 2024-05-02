@@ -1,0 +1,6 @@
+2024/03/21-19:31:56.145 13f4 Creating DB C:/KODOWANIE/UNREAL ENGINE/FPS_Env/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
+2024/03/21-19:31:56.155 13f4 Reusing MANIFEST C:/KODOWANIE/UNREAL ENGINE/FPS_Env/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/03/21-19:33:43.412 874 Level-0 table #5: started
+2024/03/21-19:33:43.424 874 Level-0 table #5: 1167 bytes OK
+2024/03/21-19:33:43.425 874 Delete type=0 #3
+2024/03/21-19:33:43.426 874 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
