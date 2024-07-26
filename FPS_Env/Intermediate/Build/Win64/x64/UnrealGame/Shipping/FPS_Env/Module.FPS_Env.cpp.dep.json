@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\kodowanie\\unreal engine\\fpsgamehealthsystemsimulator\\fps_env\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\fps_env\\module.fps_env.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\kodowanie\\unreal engine\\fpsgamehealthsystemsimulator\\fps_env\\intermediate\\build\\win64\\x64\\fps_env\\shipping\\core\\sharedpch.core.cpp17.h.pch",
+        "Includes": [
+            "c:\\kodowanie\\unreal engine\\fpsgamehealthsystemsimulator\\fps_env\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\fps_env\\definitions.fps_env.h",
+            "c:\\kodowanie\\unreal engine\\fpsgamehealthsystemsimulator\\fps_env\\intermediate\\source\\fps_env.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

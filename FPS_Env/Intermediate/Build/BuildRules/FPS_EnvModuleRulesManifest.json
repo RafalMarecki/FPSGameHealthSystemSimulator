@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"C:\\KODOWANIE\\UNREAL ENGINE\\FPSGameHealthSystemSimulator\\FPS_Env\\Intermediate\\Source\\FPS_Env.Build.cs",
+		"C:\\KODOWANIE\\UNREAL ENGINE\\FPSGameHealthSystemSimulator\\FPS_Env\\Intermediate\\Source\\FPS_Env.Target.cs",
+		"C:\\KODOWANIE\\UNREAL ENGINE\\FPSGameHealthSystemSimulator\\FPS_Env\\Intermediate\\Source\\FPS_EnvClient.Target.cs",
+		"C:\\KODOWANIE\\UNREAL ENGINE\\FPSGameHealthSystemSimulator\\FPS_Env\\Intermediate\\Source\\FPS_EnvEditor.Target.cs",
+		"C:\\KODOWANIE\\UNREAL ENGINE\\FPSGameHealthSystemSimulator\\FPS_Env\\Intermediate\\Source\\FPS_EnvServer.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}

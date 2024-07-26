@@ -1,0 +1,47 @@
+"C:\KODOWANIE\UNREAL ENGINE\FPSGameHealthSystemSimulator\FPS_Env\Intermediate\Build\Win64\x64\UnrealGame\Shipping\FPS_Env\Module.FPS_Env.cpp"
+/FI"C:\KODOWANIE\UNREAL ENGINE\FPSGameHealthSystemSimulator\FPS_Env\Intermediate\Build\Win64\x64\FPS_Env\Shipping\Core\SharedPCH.Core.Cpp17.h"
+/FI"C:\KODOWANIE\UNREAL ENGINE\FPSGameHealthSystemSimulator\FPS_Env\Intermediate\Build\Win64\x64\UnrealGame\Shipping\FPS_Env\Definitions.FPS_Env.h"
+/Yu"C:\KODOWANIE\UNREAL ENGINE\FPSGameHealthSystemSimulator\FPS_Env\Intermediate\Build\Win64\x64\FPS_Env\Shipping\Core\SharedPCH.Core.Cpp17.h"
+/Fp"C:\KODOWANIE\UNREAL ENGINE\FPSGameHealthSystemSimulator\FPS_Env\Intermediate\Build\Win64\x64\FPS_Env\Shipping\Core\SharedPCH.Core.Cpp17.h.pch"
+/Fo"C:\KODOWANIE\UNREAL ENGINE\FPSGameHealthSystemSimulator\FPS_Env\Intermediate\Build\Win64\x64\UnrealGame\Shipping\FPS_Env\Module.FPS_Env.cpp.obj"
+/sourceDependencies "C:\KODOWANIE\UNREAL ENGINE\FPSGameHealthSystemSimulator\FPS_Env\Intermediate\Build\Win64\x64\UnrealGame\Shipping\FPS_Env\Module.FPS_Env.cpp.dep.json"
+@"C:\KODOWANIE\UNREAL ENGINE\FPSGameHealthSystemSimulator\FPS_Env\Intermediate\Build\Win64\x64\UnrealGame\Shipping\FPS_Env\FPS_Env.Shared.rsp"
+/Zc:inline
+/nologo
+/Oi
+/FC
+/c
+/Gw
+/Gy
+/utf-8
+/wd4819
+/Zc:hiddenFriend
+/Zc:__cplusplus
+/D_CRT_STDIO_LEGACY_WIDE_SPECIFIERS=1
+/D_SILENCE_STDEXT_HASH_DEPRECATION_WARNINGS=1
+/D_DISABLE_EXTENDED_ALIGNED_STORAGE
+/Ob2
+/experimental:deterministic
+/wd5049
+/Ox
+/Ot
+/GF
+/errorReport:prompt
+/D_HAS_EXCEPTIONS=0
+/DPLATFORM_EXCEPTIONS_DISABLED=1
+/Z7
+/MD
+/bigobj
+/fp:fast
+/Zo
+/Zp8
+/we4456
+/we4458
+/we4459
+/we4668
+/wd4244
+/wd4838
+/TP
+/GR-
+/W4
+/std:c++17
