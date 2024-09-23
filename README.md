@@ -36,6 +36,7 @@ Aiming:
 ![image](https://github.com/user-attachments/assets/98f68878-ed51-4fc0-a4a5-42cd490882f1)
 
 Directional hit indicators:
+
 ![image](https://github.com/user-attachments/assets/7797324b-83cc-460b-9212-25da90ab2f5a)
 
 
